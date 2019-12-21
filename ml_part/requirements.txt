@@ -5,3 +5,11 @@ pandas
 seaborn
 nltk
 wordcloud
+tensorflow
+tensorflow_datasets
+ipywidgets
+
+
+
+
+jupyter nbextension enable --py widgetsnbextension
