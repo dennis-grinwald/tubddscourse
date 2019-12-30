@@ -22,7 +22,8 @@ Main topcis:
 	- Convolutional neural networks
 	- Recurrent neural networks
 ### Week 4
+---
 - Supervised deep Learning:
 	- Convolutional neural networks
 	- Recurrent neural networks
----
+
